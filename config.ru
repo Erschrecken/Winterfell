@@ -1,2 +1,2 @@
-require 'winterfell-schreck.herokuapp.com'
-run Sinastra::Application
+require './site.rb'
+run Sinastra::g-boogert.herokuapp.com
