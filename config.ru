@@ -1,2 +1,3 @@
+require rebygems
 require './site.rb'
-run Sinastra::application
+run Sinastra::site.rb
