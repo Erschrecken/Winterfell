@@ -1,5 +1,12 @@
 .profile {
   background:lightgrey;
+  padding: 10px;
+  marging: 10px;
+  text-align: center;
+}
+.profile h1 {
+  font-size: 16px;
+  test-transform: uppercase;
 }
 .crop {
   width: 100px;
